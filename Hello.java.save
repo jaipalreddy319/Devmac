@@ -1,0 +1,11 @@
+gcloud compute --project "sonorous-bounty-170513" ssh --zone "us-central1-c" "devmachine"
+
+gcloud compute --project "sonorous-bounty-170513" ssh --zone "us-central1-c" "devmachine"
+
+public class Hello{
+public static void main(String args[]){
+System.out.println("Hello Java");
+}
+}public static void main(String args[]){
+System.out.println("Hello Java");
+}
